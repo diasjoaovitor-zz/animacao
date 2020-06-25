@@ -249,6 +249,6 @@ public class Window extends JFrame {
 	
 	public static void main(String[] args) {
 		Window w = new Window();
-		System.out.println("Click para criar uma forma\nDefault/c: Cria circulo\ns: cria quadrado\nt: cria triangulo\na: ativa/desativa antialliasing");
+		System.out.println("Click para criar uma forma\nDefault/c: Cria circulo\ns: cria quadrado\nt: cria triangulo\na: ativa/desativa antialliasing\np: play/pause");
 	}
 }
