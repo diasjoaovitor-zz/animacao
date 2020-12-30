@@ -1,5 +1,3 @@
-package animacao;
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -240,8 +238,8 @@ public class Window extends JFrame {
 	public Window() {
 		Design d = new Design();
 		add(d);
-		setTitle("Computação Gráfica 1ª Unidade");
-		setSize(1000,800);
+		setTitle("Animação");
+		setSize(720,480);
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setVisible(true);
