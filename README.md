@@ -4,7 +4,7 @@
  <img src="https://user-images.githubusercontent.com/43608067/103371222-aac88e00-4aad-11eb-969f-4beaaabb8057.png" width="500">
 </p>
 
-São três diferentes formas desenhadas, quadrado, círculo e triângulo. A colisão é válida somente entre cículos. O tamanho e a cor e velocidade de cada forma é gerado aleatoriamente.
+São três diferentes formas desenhadas, quadrado, círculo e triângulo. A colisão é válida somente entre cículos. O tamanho a cor e a velocidade de cada forma é gerado aleatoriamente.
 
 ## Funcões
 
