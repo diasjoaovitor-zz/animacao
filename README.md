@@ -8,7 +8,7 @@ São três diferentes formas desenhadas, quadrado, círculo e triângulo. A coli
 
 ## Funcões
 
-Precionando as seguintes teclas temos:
+Para desenhar uma forma, é só clicar em algum ponto da tela. Precionando as seguintes teclas temos:
 
 * **c**: desenha cículo 
 * **s**: desenha quadrado
